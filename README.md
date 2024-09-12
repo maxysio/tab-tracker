@@ -1,1 +1,1 @@
-A Vuew js / Express JS web app to keep track of guitar tabs
+A Vue.js / Express.js web app to keep track of guitar tabs
